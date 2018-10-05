@@ -2,5 +2,5 @@
 Easy openCV projects
 
 ### Counting objects
-    run this code to count number of tetris objects in tetris.png image
+run this code to count number of tetris objects in tetris_blocks.png image
     
