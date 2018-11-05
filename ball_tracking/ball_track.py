@@ -11,10 +11,9 @@ ap.add_argument('-v',"--video",help = "Path for (optional) video file of object 
 ap.add_argument('-b', '--buffer', type = int, default = 64)
 args = vars(ap.parse_args())
 
-# greenL = (29, 86, 6)
-# greenU = (64,255,255)
-greenL = (110,50,50)
-greenU = (130,255,255)
+greenL = (29, 86, 6)
+greenU = (64,255,255)
+
 pts = deque(maxlen=args["buffer"])
 
 if not args.get('video', False):
