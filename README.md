@@ -19,4 +19,8 @@ run this code to count number of tetris objects in tetris_blocks.png image
 #### Day 4 (4/11/18) :
 *   *reading articles on android apps using openCV applications*
 
+#### Day 5 (5/11/18) :
+*   *searching different types of frame processing techniques for videostream*
+*   *trying out the diferent functions in imutils module*
+
 ### Goal : *fully completing the intel's student kit on CV, Tensor Flow and Deep Learning*
