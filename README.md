@@ -23,5 +23,14 @@ run this code to count number of tetris objects in tetris_blocks.png image
 *   *searching different types of frame processing techniques for videostream*
 *   *trying out the diferent functions in imutils module*
 
+#### Day 6 (6/11/18) :
+*   *updating on Day (5/17) in pyimagesearch course*
+
+#### Day 7 (7/11/18) :
+*   *completing Day (6/17) in pyimagesearch course*
+
+#### Day 8 (8/11/18) :
+*   *reading articles on the recent topics 
+
 
 ### Goal : *fully completing the intel's student kit on CV, Tensor Flow and Deep Learning*
