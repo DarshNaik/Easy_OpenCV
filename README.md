@@ -29,6 +29,7 @@ run this code to count number of tetris objects in tetris_blocks.png image
 
 #### Day 7 (7/11/18) :
 *   *completing Day (6/17) in pyimagesearch course*
+*   *opencv program to get actual size of objects*
 
 #### Day 8 (8/11/18) :
 *   *reading articles on the recent topics in OpenCV*
