@@ -6,6 +6,7 @@ import time
 import imutils
 import numpy as np
 
+
 ap = argparse.ArgumentParser()
 ap.add_argument('-v',"--video",help = "Path for (optional) video file of object motion")
 ap.add_argument('-b', '--buffer', type = int, default = 64)
