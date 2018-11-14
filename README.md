@@ -43,8 +43,8 @@ run this code to count number of tetris objects in tetris_blocks.png image
 #### Day 11 (11/11/18) :
 *   *going a little further in opencv (still not reached state where i can combine computer vision with machine learning)*
 
-#### Day 12 
-
 *taking a short break coz exams going on at my univ*
+
+####
 
 ### Goal : *fully completing the intel's student kit on CV, Tensor Flow and Deep Learning*
