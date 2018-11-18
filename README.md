@@ -48,4 +48,6 @@ run this code to count number of tetris objects in tetris_blocks.png image
 #### Day 12 (16/11/18) :
 *   *finding ways to detect number of cars from datset f videos of traffic jam*
 
+#### Day 13 () :
+
 ### Goal : *fully completing the intel's student kit on CV, Tensor Flow and Deep Learning*
