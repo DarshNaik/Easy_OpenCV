@@ -51,7 +51,7 @@ run this code to count number of tetris objects in tetris_blocks.png image
 #### Day 13 (24/11/18) :
 *   *starting to learn CNN*
 
-#### Day 14 () :
-
+#### Day 14 (25/11/18) :
+*   *searching for simple CNN projects*
 
 ### Goal : *fully completing the intel's student kit on CV, Tensor Flow and Deep Learning*
